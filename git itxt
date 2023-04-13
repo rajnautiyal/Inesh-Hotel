@@ -1,0 +1,4 @@
+git init
+
+git remote add origin https://github.com/rajnautiyal/Inesh-Hotel.git
+raj@Rajs-MBP learnSpringSecurity %  git remote set-url origin git@github.com:rajnautiyal/GWT-Spring-Project.git/
